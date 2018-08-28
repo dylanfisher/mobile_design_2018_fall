@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html class="file--{{ page.url | slugify | replace: '-html', '' }}">
+  {% include head.html %}
+  {% capture layout %}{% if page.layout %}layout--{{ page.layout }}{% endif %}{% endcapture %}
+  <body class="{{ layout }}">
+    {% include header.html %}
+    <div class="content">
+      {{ content }}
+    </div>
+    {% include footer.html %}
+  </body>
+  {% include scripts.html %}
+</html>

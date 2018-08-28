@@ -1,0 +1,13 @@
+// Students
+
+.file--students-index {
+  @include inverted-colors;
+}
+
+.student-list {
+  text-align: center;
+}
+
+.student {
+  margin-bottom: 1em;
+}

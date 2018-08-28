@@ -1,0 +1,43 @@
+h1, h2, h3, h4, h5, h6 {
+  margin: 0;
+}
+
+h1, h2 {
+  @include font-title;
+}
+
+h3, h4 {
+  @include font-small-title;
+  text-align: center;
+  margin-bottom: 1em;
+}
+
+h5, h6 {
+  @include font-regular;
+}
+
+ul,
+p {
+  margin: 0 0 $line-height;
+
+  &:last-child {
+    margin-bottom: 0;
+  }
+}
+
+p.font-small-title {
+  margin-bottom: $line-height / 2;
+}
+
+pre,
+code {
+  @include font-regular;
+}
+
+p,
+li {
+  pre,
+  code {
+    @include inline-code;
+  }
+}

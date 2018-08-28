@@ -1,0 +1,47 @@
+// Home
+
+.layout--home {
+  .content {
+    margin-top: 0;
+  }
+}
+
+.home-splash {
+  @include breakpoint(sm) {
+    height: 100vh;
+  }
+}
+
+.home-splash__svg-wrapper {
+  height: 80vh;
+  width: 80vw;
+  transform: translateX(10vw);
+
+  svg {
+    width: 100%;
+    height: 100%;
+  }
+
+  @include breakpoint(sm) {
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 50vw;
+    height: 75vh;
+  }
+}
+
+.home-splash__title {
+  color: $dark-blue;
+  margin-top: 30px;
+  padding: 0 $gutter;
+
+  @include breakpoint(sm) {
+    position: absolute;
+    left: 30px;
+    bottom: 30px;
+    padding: 0;
+    margin-top: 0;
+  }
+}

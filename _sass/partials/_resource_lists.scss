@@ -1,0 +1,15 @@
+// Resource lists
+
+.resource-list {
+  background-color: $white;
+}
+
+.resource {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: $dark-blue;
+
+  & + .resource {
+    border-top: 2px solid $orange;
+  }
+}

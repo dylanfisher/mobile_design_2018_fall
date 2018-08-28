@@ -1,0 +1,45 @@
+---
+layout: page
+permalink: /projects/index.html
+---
+
+<div class="text-center">
+  <div class="flag margin-bottom-medium">
+    Projects
+  </div>
+</div>
+
+<ol class="resource-list list--blank">
+  {% assign ongoing_index = 0 %}
+  {% assign resources = site.projects | sort: 'index' %}
+  {% for resource in resources %}
+    {% if resource.ongoing %}
+      {% if ongoing_index == 1 %}
+        {% assign ongoing_index = 2 %}
+      {% else %}
+        {% assign ongoing_index = 1 %}
+      {% endif %}
+    {% endif %}
+    <li class="resource resource--onoing-{{ resource.ongoing }}">
+      {% if ongoing_index == 1 %}
+        <hr>
+      {% endif %}
+      <div class="row">
+        <div class="col-sm-12">
+          <a class="resource__row" href="{{ resource.url | prepend: site.baseurl }}">
+            <div class="row">
+              <div class="col-sm-3 text-center va-baseline">
+                <div class="resource__date-range">{{ resource.date | date: "%m/%d" }}</div>
+              </div>
+              <div class="col-sm-9 text-center va-baseline">
+                <h2 class="resource__title">{{ resource.title }}</h2>
+              </div>
+            </div>
+          </a>
+        </div>
+      </div>
+    </li>
+  {% endfor %}
+</ol>
+
+{% include background_squiggle.html %}

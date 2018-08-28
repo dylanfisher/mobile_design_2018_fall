@@ -1,0 +1,24 @@
+<header class="header">
+  <div class="hamburger-wrapper">
+    <div class="hamburger">
+      <div class="hamburger__line hamburger__line--1"></div>
+      <div class="hamburger__line hamburger__line--2"></div>
+      <div class="hamburger__line hamburger__line--3"></div>
+    </div>
+  </div>
+
+  <nav class="nav">
+    <ul class="nav__list list--blank">
+      <li class="nav__header"><a href="/" class="font-large-title blank-link"><b>Mobile Design</b></a></li>
+      {% for link_hash in site.navigation %}
+        {% for link in link_hash %}
+          {% assign active_class = '' %}
+          {% if page.url contains link[1] %}
+            {% assign active_class = 'active' %}
+          {% endif %}
+          <li><a href="{{ link[1] }}" class="font-large-title blank-link {{ active_class }}">{{ link[0] }}</a></li>
+        {% endfor %}
+      {% endfor %}
+    </ul>
+  </nav>
+</header>

@@ -1,0 +1,63 @@
+///////////////////////////////////////////////////
+// Typography Variables
+///////////////////////////////////////////////////
+
+//
+// Font stacks
+//
+
+$font-stack-regular: 'spot-mono-regular', monospace;
+$font-stack-title: 'triogrotesk', sans-serif;
+
+///////////////////////////////////////////////////
+// Typography definitions
+///////////////////////////////////////////////////
+
+@mixin font-regular {
+  font-family: $font-stack-regular;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 1.25;
+  letter-spacing: 0;
+}
+.font-regular { @include font-regular; }
+
+@mixin font-title {
+  font-family: $font-stack-title;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 1.45;
+  letter-spacing: 0;
+}
+.font-title { @include font-title; }
+
+@mixin font-large-title {
+  font-family: $font-stack-title;
+  font-weight: normal;
+  font-size: 35px;
+  line-height: 1.45;
+  letter-spacing: -1px;
+}
+.font-large-title { @include font-large-title; }
+
+@mixin font-small-title {
+  font-family: $font-stack-title;
+  font-weight: normal;
+  font-size: 15px;
+  line-height: 1.45;
+  letter-spacing: 1px;
+}
+.font-small-title { @include font-small-title; }
+
+@mixin font-jumbo-title {
+  font-family: $font-stack-title;
+  font-weight: normal;
+  font-size: 40px;
+  line-height: 1.1;
+  letter-spacing: -2px;
+
+  @include breakpoint(sm) {
+    font-size: 50px;
+  }
+}
+.font-jumbo-title { @include font-jumbo-title; }

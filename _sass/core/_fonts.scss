@@ -1,0 +1,21 @@
+// Fonts
+
+@font-face {
+  font-family: 'spot-mono-regular';
+  src: url('fonts/SpotMono-Regular.eot');
+  src: url('fonts/SpotMono-Regular.eot?#iefix') format('embedded-opentype'),
+       url('fonts/SpotMono-Regular.woff') format('woff'),
+       url('fonts/SpotMono-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'triogrotesk';
+  src: url('fonts/triogrotesk-bold-v102.eot');
+  src: url('fonts/triogrotesk-bold-v102.eot?#iefix') format('embedded-opentype'),
+       url('fonts/triogrotesk-bold-v102.woff') format('woff'),
+       url('fonts/triogrotesk-bold-v102.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}

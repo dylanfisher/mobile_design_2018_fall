@@ -1,0 +1,17 @@
+@mixin inverted-colors {
+  & {
+    background-color: $orange;
+  }
+
+  .page-layout-content {
+    color: $dark-blue;
+  }
+
+  .flag {
+    border-left-color: $dark-blue;
+  }
+
+  .footer {
+    color: $white;
+  }
+}

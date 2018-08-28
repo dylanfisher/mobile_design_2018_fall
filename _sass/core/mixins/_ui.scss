@@ -1,0 +1,25 @@
+@mixin inline-code {
+  @include font-regular;
+  background: $code-background-color;
+  padding: 0.1em 0.5em;
+  border-radius: 4px;
+}
+
+@mixin button {
+  @include font-small-title;
+  text-transform: uppercase;
+  background: $peach;
+  border: 2px solid $black;
+  border-radius: 43px;
+  padding: 20px 40px;
+  display: inline-block;
+  line-height: 1;
+  transition: background-color 0.2s ease-in-out;
+
+  &:hover {
+    text-decoration: none;
+    background-color: $orange;
+    color: inherit;
+  }
+}
+.button { @include button; }
