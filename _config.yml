@@ -33,7 +33,7 @@ exclude:
 navigation:
   - Agenda: /agenda
   - Lectures: /lectures
-  - Projects: /projects/window
+  - Projects: /projects
   - Students: /students
   - Resources: /resources
 
