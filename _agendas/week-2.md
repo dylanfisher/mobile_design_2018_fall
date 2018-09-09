@@ -14,4 +14,4 @@ date_range:       09/04
 
 ### Homework
 
-- [Exercise: Story Screens due](../projects/comparison)
+- [Exercise: Story Screens due](../projects/story-screens)
