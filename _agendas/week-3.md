@@ -8,7 +8,7 @@ date_range:       09/11
 
 - New students introduce themselves
 - Reminder: We don&rsquo;t have class next week due to Yom Kippur.
-- Introduce [Transactions](../projects/transactions)
+- Introduce [Transactions](../projects/transaction)
 - [Lecture: What are User Flows and Wire Frames?](../assets/lectures/lecture-2_user-flows.pdf)
 - Tutorial, [Tutorial Notes](https://docs.google.com/presentation/d/1RKZsCRODvgRqahSF15WRSQQThL_XCLLilxcnk0Gu8Yw/edit?usp=sharing)
 - Tutorial [reference file](../assets/lectures/wireframe-reference.sketch)
@@ -16,4 +16,4 @@ date_range:       09/11
 
 ### Homework
 
-- Work on [Transactions](../projects/transactions). Complete a user flow and wire frame for all pages of your project. Upload to InVision using the mobile setting (i.e Choose "mobile" as the device, not desktop).
+- Work on [Transactions](../projects/transaction). Complete a user flow and wire frame for all pages of your project. Upload to InVision using the mobile setting (i.e Choose "mobile" as the device, not desktop).
