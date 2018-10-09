@@ -65,6 +65,12 @@ permalink: /resources/index.html
                 <a href="http://www.chengyinliu.com/whatfont.html">WhatFont Tool</a>
               </li>
           <h3>Design Inspiration</h3>
+          <li>
+            <a href="https://www.typewolf.com/">Type Wolf</a>
+          </li>
+              <li>
+            <a href="https://hoverstat.es/">Hover States</a>
+          </li>
             <li>
               <a href="http://www.itsnicethat.com/">It&rsquo;s Nice That</a>
             </li>
