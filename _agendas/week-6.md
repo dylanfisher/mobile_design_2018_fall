@@ -7,7 +7,7 @@ date_range:       10/09
 ### In Class
 
 - [Discuss Banquet Farewell](http://banquethall.tumblr.com/post/110946926803/the-time-has-come-my-dear-friends-followers-and) [discussion questions](https://docs.google.com/document/d/1s0BkbQS7aFn7lCu31oukhzqVAeT776BD59LcJeWnnOk/edit?usp=sharing)
-- How do we get started with developing the design of a project? [Resources and ideas](hhttps://docs.google.com/presentation/d/1mStKI5xMeOhWxVZQdRsAWijpXCkr4yNndL6U1uhwABM/edit?usp=sharing)
+- How do we get started with developing the design of a project? [Resources and ideas](https://docs.google.com/presentation/d/1mStKI5xMeOhWxVZQdRsAWijpXCkr4yNndL6U1uhwABM/edit?usp=sharing)
 - Discuss homework
 - Students share their project concepts
 - Students work on homework
