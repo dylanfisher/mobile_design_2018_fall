@@ -17,7 +17,7 @@ date_range:       10/16
   * Which of the directions feels different from what exists?
   * Which of the designs is most believable at the moment? Least believable?
   * Does the design match the integrity of the concept?
--
+
 
 
 ### Homework
