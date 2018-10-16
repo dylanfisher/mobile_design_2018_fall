@@ -18,8 +18,6 @@ date_range:       10/16
   * Which of the designs is most believable at the moment? Least believable?
   * Does the design match the integrity of the concept?
 
-
-
 ### Homework
 
 1. Helpful App: Based on the critique from today&rsquo;s class, pick one direction and begin developing it.
