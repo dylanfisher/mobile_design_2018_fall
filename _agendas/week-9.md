@@ -1,7 +1,7 @@
 ---
 title:            Week 9
 start_date:       2018-10-23 00:00:00 -0500
-date_range:       10/20
+date_range:       10/30
 ---
 
 ### In Class
