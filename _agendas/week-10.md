@@ -6,6 +6,7 @@ date_range:       11/06
 
 ### In Class
 - Midterm Presentations with guest critic [Dylan Fisher](http://www.dylanfisher.com/)
+- Please save your midterm materials in this [doc](https://docs.google.com/document/d/1uAarHqkQfeGiIXrKgAC9irbTrEdp1Z78YnMG3p97ZTU/edit?usp=sharing) and/or in this [google drive folder](https://drive.google.com/open?id=1yXSGY7tmZZfFg0NRTjwOKtNuNKi-z8Mw).
 - Presentation order:
 Karen
 Evelyn
