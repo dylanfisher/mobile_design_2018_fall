@@ -13,5 +13,5 @@ date_range:       11/13
 
 ### Homework
 - Pick a place for your Window to a World project. Go to it and collect field notes (photos of it, diary entries, observations: what does it look like? who is the space for? is it a public place or a private place?) and create a presentation that introduces the space as well as three potential ideas for an app. Be ready to share your presentation as either a PDF, Invision, or google slide at the start of class next week.
-- Finish in class assignment: The Mobile Store
+- Finish in class assignment: The App Store.
 
