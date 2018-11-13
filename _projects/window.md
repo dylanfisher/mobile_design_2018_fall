@@ -16,8 +16,6 @@ index:            5
 
 So often, our eyes are glued to our phones, infinitely scrolling and being distracted by what's happening in real time. The internet and technology connect us to one another, while simultaneously distracting us from what's in front. For this assignment, I'd like you to design a mobile application to be used meaningfully in a space: so that real life and the phone work in tandem, each offering something complimentary to the other. Your mobile app should not be a mirror to what's in front of you, but rather contribute to the space in a way not possible without it.
 
-Your app should fill in these blanks: *My destination is __. When my user is in the space, I want them to feel __ and notice __.*
-
 ### Instructions
 
 1. Find a place that you want to make your app about. Choose wisely as you will be working with it for the rest of the semester. The place should be easily accessible to you and can be anywhere, but avoid places that already have a fully designed experience: i.e a specifically curated section of the Museum of Modern Art.
@@ -42,5 +40,5 @@ Your app should fill in these blanks: *My destination is __. When my user is in 
 You will create a designed and enticing presentation that includes the following on December 11th:
 - Concept/Ideation introduction (Where is this place, what is my approach)
 - Research and analysis (Does my location already have an app? A website? Any branding? Are there similar locations? Are there projects similar to what I'm trying to communicate?)
-- Demonstration of app
+- Demo of app by way of fully designed prototype
 - Optional extra credit: a short video introducing your app and a few social media assets

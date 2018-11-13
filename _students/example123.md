@@ -1,6 +1,6 @@
 ---
-first_name: John
-last_name:  Doe
+first_name: Nika
+last_name:  Fisher
 student_id: doej123
-email:      doej123@newschool.edu
+email:      nika@newschool.edu
 ---
