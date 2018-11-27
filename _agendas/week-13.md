@@ -6,6 +6,7 @@ date_range:       11/27
 
 ### In Class
 - Students present their directions in groups of 3. Collect feedback regarding which is the most compelling direction and how it can be communicated more clearly. I&rsquo;ll go around the room and meet with each group.
+- Time permitting: Gallery of App store assignment. Students pull up their App Store assignment on their computer and we walk through and observe them.
 
 ### Homework
 - Come to class with a complete a working draft of your final project.
