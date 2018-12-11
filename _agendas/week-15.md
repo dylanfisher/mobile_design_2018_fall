@@ -10,7 +10,6 @@ date_range:       12/11
 - Guest critic [Elana Schlenker](http://elanaschlenker.com/)
 - Presentation order (reverse midterm schedule): Xiujie, Marie, Sky, Natasha, Deborah, Yuqi, Hazal, Yifei, Evelyn, Karen
 
--
 
 ### Homework
 - Happy holidays and good luck with your future endeavors!
